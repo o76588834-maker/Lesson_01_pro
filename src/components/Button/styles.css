@@ -1,0 +1,11 @@
+.my-button {
+width: 350px;
+padding: 20px;
+background: rgb(18,18,86);
+color:white;
+font-weight: bold;
+border:none;
+border-radius: 8px;
+cursor: pointer;
+font-size:30px;
+}
